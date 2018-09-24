@@ -1,0 +1,26 @@
+
+
+
+.info {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info span {
+    display: flex;
+}
+
+.info .date {
+    font-size: 12px;
+    font-style: italic;
+}
+
+.info .nickname {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.comments {
+    margin-bottom: 15px;
+}
