@@ -1,0 +1,26 @@
+.content h2 {
+    text-align: center;
+    color: white;
+    padding: 10px;
+    background-color: #222;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card-content {
+    width: 100%;
+    background-color: #222;
+    padding: 10px;
+    color: white;
+    font-size: 14px;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+.input-form {
+    background-color: white;
+}
