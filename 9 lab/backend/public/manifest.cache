@@ -1,0 +1,25 @@
+CACHE MANIFEST
+# 29-09-2018 v0.2
+
+index.html
+matches.html
+contacts.html
+fans.html
+news.html
+
+main.css
+contacts.css
+fans.css
+matches.css
+news.css
+
+
+js/bootstrap.min.js
+js/jquery-3.3.1.min.js
+css-bootstrap/bootstrap.min.css
+
+NETWORK:
+*
+ 
+FALLBACK:
+offline.html
